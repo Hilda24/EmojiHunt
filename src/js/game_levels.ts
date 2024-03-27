@@ -57,11 +57,6 @@ export const EMOJIS_LVL_1: Array<EmojiItem> = [
     'path': '/img/emojis/game/keyboard.svg'
   },
   {
-    'name': 'tv',
-    'emoji': '📺',
-    'path': '/img/emojis/game/tv.svg'
-  },
-  {
     'name': 'laptop',
     'emoji': '💻',
     'path': '/img/emojis/game/laptop.svg'
@@ -80,7 +75,36 @@ export const EMOJIS_LVL_1: Array<EmojiItem> = [
     'name': 'shoe',
     'emoji': '👞',
     'path': '/img/emojis/game/shoe.svg'
-  }
+  },{
+    'name': 'key',
+    'emoji': '🔑',
+    'path': '/img/emojis/game/key.svg'
+  },
+  {
+    'name': 'newspaper',
+    'emoji': '📰',
+    'path': '/img/emojis/game/newspaper.svg'
+  },
+  {
+    'name': 'cup',
+    'emoji': '☕',
+    'path': '/img/emojis/game/cup.svg'
+  },
+  {
+    'name': 'watch',
+    'emoji': '⌚',
+    'path': '/img/emojis/game/watch.svg'
+  },
+  {
+    'name': 'trash can',
+    'emoji': '🗑',
+    'path': '/img/emojis/game/trash can.svg'
+  },
+  {
+    'name': 'spoon',
+    'emoji': '🥄',
+    'path': '/img/emojis/game/spoon.svg'
+  },
 ];
 
 export const EMOJIS_LVL_2: Array<EmojiItem> = [
